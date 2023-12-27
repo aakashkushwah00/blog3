@@ -12,5 +12,6 @@ Rails.application.routes.draw do
   # root "posts#index"
 
   resources :home
+# resources :users
 
 end
